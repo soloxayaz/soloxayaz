@@ -72,16 +72,6 @@ https://soloxayaz.github.io/
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soloxayaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayaz's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloxayaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
 ---
 
 ## 🌐 Connect With Me
