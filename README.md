@@ -74,9 +74,13 @@ https://soloxayaz.github.io/
 
 ## 📊 GitHub Stats
 
-![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soloxayaz&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soloxayaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayaz's GitHub Stats">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soloxayaz&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soloxayaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
 
 ---
 
@@ -88,7 +92,7 @@ https://soloxayaz.github.io/
 
 ---
 
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 My cybersecurity work is focused on learning, ethical security research, authorized testing, and responsible disclosure.
 
